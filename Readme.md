@@ -1,4 +1,6 @@
 ## E5-Toolkit
+
+> If you want to read pptx version, check this: https://github.com/Musicminion/e5-toolkit/tree/main/doc/ppt
 ### 1. Introduction
 
 - This is a tool for quick build qyi-e5 web. The original Author is [qyi](https://github.com/luoye663/e5). if you want to support or check his origianal repository, refer to: [luoye663/e5: e5-backend](https://github.com/luoye663/e5) and [luoye663/e5-html](https://github.com/luoye663/e5-html)
