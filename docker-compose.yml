@@ -20,7 +20,7 @@ services:
     image: mysql:8.0
     restart: always
     volumes:
-      - ./doc/sql/e5.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./doc/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
       - ./data/mysql:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: example_mysql_password
