@@ -51,6 +51,7 @@ services:
       - DOCKER_INFLUXDB_INIT_ORG=E5
       - DOCKER_INFLUXDB_INIT_BUCKET=e5
       - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=example_influxdb_token
+      - DOCKER_INFLUXDB_INIT_RETENTION=1w
     command: 
       - influxd
       - --reporting-disabled
