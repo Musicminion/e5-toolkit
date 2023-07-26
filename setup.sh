@@ -57,10 +57,11 @@ git clone https://github.com/Musicminion/e5-toolkit.git ~/e5-toolkit
 # Change Directory
 ######################
 cd ~/e5-toolkit
-docker-compose pull
+sudo docker-compose pull
 
 ######################
 green_echo "[Help] 接下来请执行的操作是："
+
 green_echo "[1] 编辑 config.env 文件，命令：vim config.env 或者 nano config.env，退出方法是：按下 Esc 键，然后输入 :wq 回车(vim) / crtl+x Y回车(nano)"
 green_echo "[2] 然后执行 docker-compose up -d，这个操作会启动所有的容器"
 green_echo "[3] 安装Nginx，命令：sudo apt-get install -y nginx"
