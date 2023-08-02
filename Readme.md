@@ -1,5 +1,11 @@
 ## E5-Toolkit
 
+### Terms and Conditions
+Once you use this program, We consider you agree the following items
+- The user shall be responsible for any losses caused by their own configuration errors or other reasons once using this project. Using this project represents your agreement to this item.
+- Any commercial use is prohibited!
+- No one guarantees a successful renewal, so take it cautiously!
+
 ### ChangeLog
 - 2023.7.13: Fix bug, in some situation, you maynot be able to mount a file to a container, so I use folder in the end
 - 2023.7.26: Setup script And InfluxDB Data RETENTION has been set **only 1 week**. This means you can ouly check recent 1 week api status. 
