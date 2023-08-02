@@ -3,7 +3,7 @@
 ### ChangeLog
 - 2023.7.13: Fix bug, in some situation, you maynot be able to mount a file to a container, so I use folder in the end
 - 2023.7.26: Setup script And InfluxDB Data RETENTION has been set **only 1 week**. This means you can ouly check recent 1 week api status. 
-
+- 2023.8.2: fix bug, since Microsoft has changed token expiration error info, so I choose to refresh token each time calling api.
 
 > If you want to read pptx version, check this: https://github.com/Musicminion/e5-toolkit/tree/main/doc/ppt
 ### 1. Introduction
