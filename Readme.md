@@ -2,12 +2,12 @@
 
 ### Get Update
 
-Since e5@qyi containes a lot of bugs, you may need to get latest docker images. Follow this!
+Since e5@qyi containes a lot of bugs, you may need to get latest docker images. Follow this to update your e5 image.
 ```bash
 cd ~/e5-toolkit
-sudo docker-compose down
-sudo docker-compose pull
-sudo docker-compose up -d
+sudo docker-compose down # stop all docker containers
+sudo docker-compose pull # repull all images
+sudo docker-compose up -d # start all service about e5
 ```
 
 ### Terms and Conditions
