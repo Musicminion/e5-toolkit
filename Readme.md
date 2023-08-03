@@ -1,5 +1,15 @@
 ## E5-Toolkit
 
+### Get Update
+
+Since e5@qyi containes a lot of bugs, you may need to get latest docker images. Follow this!
+```bash
+cd ~/e5-toolkit
+sudo docker-compose down
+sudo docker-compose pull
+sudo docker-compose up -d
+```
+
 ### Terms and Conditions
 Once you use this program, We consider you agree the following items
 - The user shall be responsible for any losses caused by their own configuration errors or other reasons once using this project. Using this project represents your agreement to this item.
