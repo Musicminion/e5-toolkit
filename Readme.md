@@ -1,5 +1,10 @@
 ## E5-Toolkit
 
+Welcome to participate in e5@next. To find out more, visit [e5@next](https://github.com/Musicminion/e5-toolkit/wiki/E5(@Qyi)-Next-is-in-ready!)
+<img width="937" alt="截屏2023-08-05 13 03 21" src="https://github.com/Musicminion/e5-toolkit/assets/84625273/f8d410f3-8825-408a-8ad7-6a4cac15112b">
+
+
+
 ### Get Update
 
 Since e5@qyi containes a lot of bugs, you may need to get latest docker images. Follow this to update your e5 image.
