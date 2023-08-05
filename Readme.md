@@ -1,6 +1,7 @@
 ## E5-Toolkit
 
-Welcome to participate in e5@next. To find out more, visit [e5@next](https://github.com/Musicminion/e5-toolkit/wiki/E5(@Qyi)-Next-is-in-ready!)
+Welcome to participate in e5@next. To find out more, visit [e5@next](https://github.com/Musicminion/e5-toolkit/wiki/%E4%BD%93%E9%AA%8CE5-next%E5%85%A8%E6%96%B0%E7%95%8C%E9%9D%A2)
+
 <img width="937" alt="截屏2023-08-05 13 03 21" src="https://github.com/Musicminion/e5-toolkit/assets/84625273/f8d410f3-8825-408a-8ad7-6a4cac15112b">
 
 
