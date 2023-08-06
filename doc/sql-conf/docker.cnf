@@ -1,0 +1,7 @@
+[mysqld]
+performance_schema_max_table_instances=400  
+table_definition_cache=400    #缓存
+performance_schema=off    #用于监控MySQL server在一个较低级别的运行过程中的资源消耗、资源东西
+table_open_cache=64    #打开表的缓存
+innodb_buffer_pool_chunk_size=64M    #InnoDB缓冲池大小调整操作的块大小
+innodb_buffer_pool_size=64M    #InnoDB 存储引擎的表数据和索引数据的最大内存缓冲区大小
