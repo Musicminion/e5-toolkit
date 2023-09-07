@@ -27,7 +27,8 @@ Once you use this program, We consider you agree the following items
 - 2023.7.26: Setup script And InfluxDB Data RETENTION has been set **only 1 week**. This means you can ouly check recent 1 week api status. 
 - 2023.8.2: fix bug, since Microsoft has changed token expiration error info, so I choose to refresh token each time calling api.
 - 2023.8.5 e5 next is now in beta, thanks to ant-design and react, it takes only 1 day to reconfigure all frontend project
- 
+- 2023.9.6 Add common link cards, for convenience.
+
 > If you want to read pptx version, check this: https://github.com/Musicminion/e5-toolkit/tree/main/doc/ppt
 ### 1. Introduction
 
