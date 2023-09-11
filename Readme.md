@@ -28,6 +28,7 @@ Once you use this program, We consider you agree the following items
 - 2023.8.2: fix bug, since Microsoft has changed token expiration error info, so I choose to refresh token each time calling api.
 - 2023.8.5 e5 next is now in beta, thanks to ant-design and react, it takes only 1 day to reconfigure all frontend project
 - 2023.9.6 Add common link cards, for convenience.
+- 2023.9.11 Add Smart IP change and Onedrive API Call. **Attention, you need to update you [config file](https://github.com/Musicminion/e5-toolkit/blob/main/config.env)**, Smart IP is not open feature, so don't use currently.
 
 > If you want to read pptx version, check this: https://github.com/Musicminion/e5-toolkit/tree/main/doc/ppt
 ### 1. Introduction
