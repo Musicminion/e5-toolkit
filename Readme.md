@@ -1,5 +1,8 @@
 ## E5-Toolkit
 
+> 欢迎加入Discord交流：[Discord](https://discord.gg/S2XCT6Uu)
+> Welecome to join [Discord Group](https://discord.gg/S2XCT6Uu)
+
 Welcome to participate in e5@next. To find out more, visit [e5@next](https://github.com/Musicminion/e5-toolkit/wiki/%E4%BD%93%E9%AA%8CE5-next%E5%85%A8%E6%96%B0%E7%95%8C%E9%9D%A2)
 
 To know more about new feature, visit [wiki](https://github.com/Musicminion/e5-toolkit/wiki)
